@@ -73,3 +73,6 @@ La CPU carga el código ASCII de cada letra en el Acumulador (AC) y luego lo env
 •	Se suma el valor del número 2 con ADD.
 •	Se guarda el resultado en la posición designada en memoria para mostrarla en el Display, con STORE.
 •	El programa se detiene, HALT.
+
+
+Hecho por David Ezagui.
